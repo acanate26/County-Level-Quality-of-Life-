@@ -28,4 +28,21 @@ Merging the Census data with RWJF county quality-of-life rankings
 And produces choropleth maps and boxplots, then combines them into a single 2x2 figures.
 
 
+VISUALIZAITONS:
+
+The script builds the following figures:
+
+County Level Quality of Life Rank: choropleth map (light green = low, dark green = high)
+County Level Racial Diversity: choropleth map using the same color scheme
+Boxplot: Quality of Life by Racial Diversity group
+Boxplot: Racial Diversity by Quality of Life group
+Combined 2x2 panel of all four, arranged with ggpubr::ggarrange()  
+
+
+[RPLOTS QUALITY OF LIFE LAB 7.pdf](https://github.com/user-attachments/files/32882449/RPLOTS.QUALITY.OF.LIFE.LAB.7.pdf)
+
+
+
+
+
 
