@@ -28,7 +28,7 @@ Merging the Census data with RWJF county quality-of-life rankings
 And produces choropleth maps and boxplots, then combines them into a single 2x2 figures.
 
 
-VISUALIZAITONS:
+VISUALIZATIONS:
 
 The script builds the following figures:
 
