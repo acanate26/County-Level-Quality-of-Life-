@@ -28,5 +28,5 @@ Merging the Census data with RWJF county quality-of-life rankings
 And produces choropleth maps and boxplots, then combines them into a single 2x2 figures.
 
 
-[RPLOTS QUALITY OF LIFE LAB 7.pdf](https://github.com/user-attachments/files/32881460/RPLOTS.QUALITY.OF.LIFE.LAB.7.pdf)
+file:///C:/DATA%20ANALYST%20PORTFOLIO/RPLOTS%20QUALITY%20OF%20LIFE%20LAB%207.pdf 
 
